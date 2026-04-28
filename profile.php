@@ -1,0 +1,1 @@
+<?php require_once '../includes/auth.php'; echo "<h1>Profile</h1><p>User profile placeholder</p>"; ?>

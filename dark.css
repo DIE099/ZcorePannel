@@ -1,0 +1,4 @@
+/* Dark theme - same as style.css, just additional overrides */
+body{background:#000}
+.sidebar{background:#0a0a0a}
+.card,.stat-card,.top-bar{background:#111}

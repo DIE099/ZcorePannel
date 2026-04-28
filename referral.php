@@ -1,0 +1,1 @@
+<?php require_once '../includes/auth.php'; echo "<h1>Referrals</h1><p>Referral system placeholder</p>"; ?>
